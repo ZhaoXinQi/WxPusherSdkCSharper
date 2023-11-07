@@ -1,0 +1,10 @@
+C:\Users\97470\Desktop\新建文件夹123\bin\Debug\netstandard2.0\WxPusherSdkCSharper.deps.json
+C:\Users\97470\Desktop\新建文件夹123\bin\Debug\netstandard2.0\WxPusherSdkCSharper.dll
+C:\Users\97470\Desktop\新建文件夹123\bin\Debug\netstandard2.0\WxPusherSdkCSharper.pdb
+C:\Users\97470\Desktop\新建文件夹123\obj\Debug\netstandard2.0\WxPusherSdkCSharper.csproj.AssemblyReference.cache
+C:\Users\97470\Desktop\新建文件夹123\obj\Debug\netstandard2.0\WxPusherSdkCSharper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97470\Desktop\新建文件夹123\obj\Debug\netstandard2.0\WxPusherSdkCSharper.AssemblyInfoInputs.cache
+C:\Users\97470\Desktop\新建文件夹123\obj\Debug\netstandard2.0\WxPusherSdkCSharper.AssemblyInfo.cs
+C:\Users\97470\Desktop\新建文件夹123\obj\Debug\netstandard2.0\WxPusherSdkCSharper.csproj.CoreCompileInputs.cache
+C:\Users\97470\Desktop\新建文件夹123\obj\Debug\netstandard2.0\WxPusherSdkCSharper.dll
+C:\Users\97470\Desktop\新建文件夹123\obj\Debug\netstandard2.0\WxPusherSdkCSharper.pdb
